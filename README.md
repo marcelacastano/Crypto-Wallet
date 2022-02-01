@@ -2,8 +2,6 @@
 
 - Fintech Finder is an application used to make mock transactions with ficticious fintech professionals. 
 
-- For this app, the wallet details and testnet were originated through [Ganache](https://trufflesuite.com/ganache/), and the user-friendly web interface was built with [Streamlit](https://docs.streamlit.io/library/get-started).
-
 - Source code: [Fintech Finder App](fintech_finder.py)
 
 - Deployed app: 
@@ -31,3 +29,21 @@
 If your transaction is successfully communicated to Ganache, validated, and added to a block, a resulting transaction receipt will be displayed on the sidebar.
 
 ![validate](Images/trx_receipt.png)
+
+# Account and Transaction Record 📜
+
+Check your wallet details on the `Account` tab inside Ganache:
+
+![address](Images/address.png)
+
+Review your transaction in the `Transactions` tab inside Ganache:
+
+![transaction](Images/transaction.png)
+
+# Useful Links 🆘
+
+- Test your app on an Ethereum blockchain using [Ganache](https://trufflesuite.com/ganache/)
+
+- Build a user-friendly web interface with [Streamlit](https://docs.streamlit.io/library/get-started)
+
+- Deploy Streamlit App with [Heroku](https://www.heroku.com/)
