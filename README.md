@@ -1,4 +1,4 @@
-# Fintech Finder Crypto Wallet 👛
+# Fintech Finder Crypto Wallet 💳
 
 - Fintech Finder is an application used to make mock transactions with ficticious fintech professionals. 
 
