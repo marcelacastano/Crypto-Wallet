@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run fintech_finder.py
+web: sh setup.sh && streamlit run fintech_finder_hk.py
