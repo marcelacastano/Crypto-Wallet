@@ -28,7 +28,7 @@
 
 If your transaction is successfully communicated to Ganache, validated, and added to a block, a resulting transaction receipt will be displayed on the sidebar.
 
-![validate](Images/trx_receipt.png)
+<img src="Images/trx_receipt.png" alt="validate" height="500"/>
 
 # Account and Transaction Record 📜
 
