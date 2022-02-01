@@ -130,7 +130,7 @@ if st.sidebar.button("Send Transaction"):
 # Writes FinTech Finder candidates to the Streamlit page
 get_people()
 
-
+#####################################################
 # Hide Streamlit Style
 hide_st_style = """
             <style>
@@ -152,13 +152,3 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 # Click the Send Transaction button to sign and send the transaction with your Ethereum account information. 
 # If the transaction is successfully communicated to Ganache, validated, and added to a block,
 # a resulting transaction hash code will be written to the Streamlit application sidebar.
-    
-# Navigate to the Ganache accounts tab and locate your account (index 0).
-    # * Take a screenshot of the address, balance, and transaction (TX) count.
-    # Save this screenshot to the README.md file of your GitHub repository for
-    #  this Challenge assignment.
-    
-# 6. Navigate to the Ganache transactions tab and locate the transaction.
-    # * Click the transaction and take a screenshot of it.
-    # Save this screenshot to the README.md file of your GitHub repository for
-    #  this Challenge assignment.
