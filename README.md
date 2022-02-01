@@ -4,7 +4,7 @@
 
 - Source code: [Fintech Finder App](fintech_finder.py)
 
-- Deployed app: 
+- Deployed app: https://fintech-finder.herokuapp.com/
 
 # Here's How it Works 👇
 
