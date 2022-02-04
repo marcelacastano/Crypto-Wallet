@@ -4,8 +4,6 @@
 
 - Source code: [Fintech Finder App](fintech_finder.py)
 
-- Deployed app: https://fintech-finder.herokuapp.com/
-
 # Here's How it Works 👇
 
 ## Browse Candidates
@@ -45,5 +43,3 @@ Review your transaction in the `Transactions` tab inside Ganache:
 - Test your app on an Ethereum blockchain using [Ganache](https://trufflesuite.com/ganache/)
 
 - Build a user-friendly web interface with [Streamlit](https://docs.streamlit.io/library/get-started)
-
-- Deploy Streamlit App with [Heroku](https://www.heroku.com/)
